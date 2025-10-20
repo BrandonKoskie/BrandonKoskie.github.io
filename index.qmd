@@ -2,7 +2,7 @@
 title: "BrandonKoskie.github.io"
 ---
 
-This is a Quarto website.
+Hello
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
