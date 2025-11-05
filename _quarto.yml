@@ -8,13 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - resume.qmd
+      - icon: github
+        href: https://github.com/BrandonKoskie
+        target: blank
+      - href: https://google.com
+        text: Google?
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: darkly
     css: styles.css
     toc: true
 

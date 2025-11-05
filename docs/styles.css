@@ -1,1 +1,41 @@
 /* css styles */
+p, h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+  font-style:
+}
+
+body, p {
+  font-family:
+  font-size: 15px;
+  background-color:
+}
+
+li, ul, ol {
+  color: red;
+}
+
+a {
+  color: pink;
+}
+
+a:hover {
+  color: lightgreen;
+}
+
+a:visited {
+  color: white;
+}
+
+
+
+
+
+

@@ -2,9 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BrandonKoskie.github.io",
+    "title": "Brandon Koskie",
     "section": "",
-    "text": "Hello\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "this is a link.\nI am currently student at Chaminade University of Honolulu with a passion for the outdoors and technology!"
+  },
+  {
+    "objectID": "index.html#this-is-header-2",
+    "href": "index.html#this-is-header-2",
+    "title": "Brandon Koskie",
+    "section": "",
+    "text": "this is a link.\nI am currently student at Chaminade University of Honolulu with a passion for the outdoors and technology!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF file."
   }
 ]

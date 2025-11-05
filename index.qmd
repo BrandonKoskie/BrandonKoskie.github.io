@@ -1,11 +1,26 @@
 ---
-title: "BrandonKoskie.github.io"
+title: "Brandon Koskie"
+image: media/profile_photo.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 10cm
+  links: 
+    - icon: github
+      href: https://github.com/BrandonKoskie
+      target: blank
+    - text: Email
+      icon: envelope
+      href: mailto:brandonkoskie@gmail.com
 ---
 
-Hello
+# this is and h1 header
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## this is header 2
 
-```{r}
-1 + 1
-```
+### header 3
+
+this is a [link.](google.com)
+
+I am currently student at Chaminade University of Honolulu with a passion for the outdoors and technology!

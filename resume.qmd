@@ -1,0 +1,5 @@
+---
+title: "Resume"
+---
+
+{{< pdf media/brandon_resume.pdf width=100% height=800 >}}
