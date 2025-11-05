@@ -13,8 +13,6 @@ website:
       - icon: github
         href: https://github.com/BrandonKoskie
         target: blank
-      - href: https://google.com
-        text: Google?
 
 format:
   html:
