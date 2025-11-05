@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "dashboards.html",
+    "href": "dashboards.html",
+    "title": "dashboards",
+    "section": "",
+    "text": "https://brandonkoskie.github.io/dashboards/penguins.html"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brandon Koskie",
@@ -12,19 +26,5 @@
     "title": "Brandon Koskie",
     "section": "",
     "text": "this is a link.\nI am currently student at Chaminade University of Honolulu with a passion for the outdoors and technology!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Download PDF file."
   }
 ]
