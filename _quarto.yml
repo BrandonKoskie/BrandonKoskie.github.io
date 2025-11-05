@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - resume.qmd
+      - dashboards.qmd
       - icon: github
         href: https://github.com/BrandonKoskie
         target: blank
