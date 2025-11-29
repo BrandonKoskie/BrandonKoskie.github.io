@@ -3,3 +3,5 @@ title: "Dashboards"
 ---
 
 <https://brandonkoskie.github.io/dashboards/penguins.html>
+
+<https://brandonkoskie.github.io/wildlife_dashboard/>
