@@ -1,5 +1,5 @@
 ---
-title: "Dashboards"
+title: "dashboards"
 ---
 
 <https://brandonkoskie.github.io/dashboards/penguins.html>
